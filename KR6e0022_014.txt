@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:30.771892
+#+DATE: 2015-09-28 22:55:36.792431
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0022_T_014-0808a> 
 #+PROPERTY: JUAN 14
 ¶
-
- 新華嚴經論卷第十四¶
+新華嚴經論卷第十四¶
 ¶
 長者李通玄撰¶
 
@@ -21,11 +20,7 @@
 品。是正說分。賢首品末有三行半經。是流通¶
 分。¶
 
-7如來名號品
-:PROPERTIES:
-:head: 如來名號品第七
-:END:
-¶
+如來名號品第七¶
 
 從此品至賢首品。是第三長科文中。以果成¶
 信。信自己心之是佛分。於此一段之中約有¶

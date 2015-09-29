@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:30.816658
+#+DATE: 2015-09-28 22:55:36.825531
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0022_T_015-0815a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 新華嚴經論卷第十五¶
+新華嚴經論卷第十五¶
 ¶
 長者李通玄撰¶
 
@@ -250,11 +249,7 @@
 徹故。令後學者易解故。如有兩品經。如來自¶
 說。前已述訖。明是佛果二愚。至佛方明。¶
 
-8四聖諦品
-:PROPERTIES:
-:head: 四聖諦品第八
-:END:
-¶
+四聖諦品第八¶
 
 將釋此品義分為三。一釋品名目。二釋品來¶
 意。三隨文釋義。¶
@@ -322,11 +317,7 @@
 如是已上十信門。以根本普光明智為殿體。¶
 如是進修究竟不離此智也。¶
 
-9光明覺品
-:PROPERTIES:
-:head: 光明覺品第九
-:END:
-¶
+光明覺品第九¶
 
 將釋此品約作三門分別。一釋品名目。二釋¶
 品來意。三隨文釋義。¶
@@ -495,11 +486,7 @@
 故須入定。
 <pb:KR6e0022_T_015-0820a>¶
 
-10菩薩問明品
-:PROPERTIES:
-:head: 菩薩問明品第十
-:END:
-¶
+菩薩問明品第十¶
 
 將釋此品約分三門。一釋品名目。二釋品來¶
 意。三隨文釋義。¶

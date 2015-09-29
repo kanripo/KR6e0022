@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:30.377091
+#+DATE: 2015-09-28 22:55:36.430725
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0022_T_002-0727b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 新華嚴經論卷第二¶
+新華嚴經論卷第二¶
 ¶
 長者李通玄撰¶
 
@@ -214,7 +213,7 @@
 有諸菩薩經無量劫修六波羅蜜得六神通。¶
 讀誦通利八萬四千法藏。猶故不信此深經¶
 典。是其例也。所得神通不依性起。為修眾善¶
-及無我等觀。報勝諸天。又如北越單人。先¶
+及無我等觀。報勝諸天。又如北＆CB00614；單越人。先¶
 世亦修無我所觀。報生彼國。壽千年衣食自¶
 然。粳米七寸火珠熟之。香所及處皆來共食。¶
 無有佛法不得解脫。皆是過去行解訛謬。故¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.355671
+#+DATE: 2015-09-28 22:55:37.386517
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0022_T_032-0939c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 32
 ¶
 ¶
-
- 新華嚴經論卷第三十二¶
+新華嚴經論卷第三十二¶
 ¶
 長者李通玄撰¶
 
@@ -208,11 +207,7 @@
 自在圓通。名佛出現世間故。此明不作而作¶
 作而不作者故。¶
 
-38離世間品
-:PROPERTIES:
-:head: 離世間品第三十八
-:END:
-¶
+離世間品第三十八¶
 
 將釋此品約作五門。一釋品名目。二釋品來¶
 意。三釋敘致始成正覺所由。四釋說法之主¶
@@ -382,11 +377,7 @@
 賢名。善財起無量十大願雲。方見自身入普¶
 賢身此品同彼。¶
 
-39入法界品
-:PROPERTIES:
-:head: 入法界品第三十九
-:END:
-¶
+入法界品第三十九¶
 
 將釋此品六門分別。一釋品名目。二釋品來¶
 意。三釋如來所居之處。四釋說法之主。五釋¶

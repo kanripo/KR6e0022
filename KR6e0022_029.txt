@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.253585
+#+DATE: 2015-09-28 22:55:37.294945
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0022_T_029-0917c> ¶¶¶
 #+PROPERTY: JUAN 29
 ¶
 ¶
-
- 新華嚴經論卷第二十九¶
+新華嚴經論卷第二十九¶
 ¶
 長者李通玄撰¶
 
@@ -317,11 +316,7 @@
 文義如經自具。十定品十通品十忍品阿僧¶
 祇品如來壽量品菩薩住處品。¶
 
-27十定品
-:PROPERTIES:
-:head: 十定品第二十七
-:END:
-¶
+十定品第二十七¶
 
 此品佛自說十定之名。普賢說十定之用。以
 <pb:KR6e0022_T_029-0921a>¶

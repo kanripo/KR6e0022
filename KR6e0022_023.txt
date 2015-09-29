@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.075404
+#+DATE: 2015-09-28 22:55:37.102730
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0022_T_023-0874b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 23
 ¶
 ¶
-
- 新華嚴經論卷第二十三¶
+新華嚴經論卷第二十三¶
 ¶
 長者李通玄撰¶
 
@@ -805,7 +804,7 @@
 中隨行成名。於五位中俱有五百。為一波羅¶
 蜜中具十。十中具百。隨五位上加行同異上¶
 有五百。即如初會中菩薩神天等眾。一眾有¶
-十。十眾有百。五十眾上有五百。各各位中¶
+十。十眾有百。五十眾生有五百。各各位中¶
 隨當位菩薩神天名下義。是波羅蜜行。又善¶
 財四眾各具五百者。是為一中具足十義。名¶
 之為總。其行殊途。名之為別。一智無二。名之¶

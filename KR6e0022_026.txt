@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.162569
+#+DATE: 2015-09-28 22:55:37.200070
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6e0022_T_026-0896c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 26
 ¶
 ¶
-
- 新華嚴經論卷第二十六¶
+新華嚴經論卷第二十六¶
 ¶
 長者李通玄撰¶
 
@@ -299,11 +298,7 @@
 智慧。第七遠行地以方便波羅蜜。成就入世¶
 間中出世間智慈之慧。¶
 
-7遠行地
-:PROPERTIES:
-:head: 第七遠行地
-:END:
-¶
+第七遠行地¶
 
 將釋此地。五門如前。¶
 
