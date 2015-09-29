@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:30.606671
+#+DATE: 2015-09-28 22:55:34.864592
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0022_T_009-0773b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 新華嚴經論卷第九¶
+新華嚴經論卷第九¶
 ¶
 長者李通玄撰¶
 
@@ -139,7 +138,6 @@
 鬼神之神。以入如來智。法力自在故十地如¶
 天。亦明自在。至文方廣明。¶
 
-1世主妙嚴品
 今釋此初會中世主妙嚴一品。如前十段科¶
 文中第一段。明佛始成正覺。於此一段復分¶
 為二。一釋經題目。二隨文釋義。¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:30.444921
+#+DATE: 2015-09-28 22:55:34.691270
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0022_T_004-0740a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 新華嚴經論卷第四¶
+新華嚴經論卷第四¶
 ¶
 長者李通玄撰¶
 
@@ -161,7 +160,7 @@
 與普賢問答者。多約行門。凡說法依根。但見¶
 問答主師可知。表裏准之可見。¶
 
-四和會有無觀智門者。即解深密經第三時
+四和會有無觀智門者。即解深蜜經第三時
 <pb:KR6e0022_T_004-0741c>¶
 教說九識為淨識。與業種為依。并說三性三¶
 無性。所謂遍計所執性。依他起性。圓成實性。¶

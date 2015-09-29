@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.014957
+#+DATE: 2015-09-28 22:55:35.234598
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0022_T_021-0860a> 
 #+PROPERTY: JUAN 21
 ¶
-
- 新華嚴經論卷第二十一¶
+新華嚴經論卷第二十一¶
 ¶
 長者李通玄撰¶
 
@@ -369,7 +368,7 @@
 不成。今此一位依舊不依新翻。又依梵云光
 <pb:KR6e0022_T_021-0863b>¶
 世音菩薩。明以教光行光大慈悲之光等眾¶
-生而利物。即一切處文殊。一切處普賢。亦得¶
+生而利物。即一切處文珠。一切處普賢。亦得¶
 名一切處光世音。今言觀世音者。取正念心¶
 成依心應現而立名也。不可以為觀自在所¶
 表法也。觀自在者。約名表法義中。是表第六¶

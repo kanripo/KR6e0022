@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.105101
+#+DATE: 2015-09-28 22:55:35.336871
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6e0022_T_024-0882b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 24
 ¶
 ¶
-
- 新華嚴經論卷第二十四¶
+新華嚴經論卷第二十四¶
 ¶
 長者李通玄撰¶
 
@@ -393,11 +392,7 @@
 闕一即理智不圓。是此初地中觀。通世間一¶
 切法門故。¶
 
-2離垢地
-:PROPERTIES:
-:head: 第二離垢地
-:END:
-¶
+第二離垢地¶
 
 將釋此地。約作五門分別。一釋地名目。二明¶
 此地修何行門。三明善財表法。四明此地於¶
@@ -657,11 +652,7 @@
 <pb:KR6e0022_T_024-0889a>¶
 用也。¶
 
-3發光地
-:PROPERTIES:
-:head: 第三發光地
-:END:
-¶
+第三發光地¶
 
 將釋此地。作五門如前地。
 
