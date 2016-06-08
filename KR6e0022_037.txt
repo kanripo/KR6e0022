@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.528699
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
@@ -12,7 +12,8 @@
 ¶
 ¶
 
- 新華嚴經論卷第三十七¶
+ 
+** 6新華嚴經論卷第三十七¶
 ¶
 長者李通玄撰¶
 

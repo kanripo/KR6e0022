@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:30.771892
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 14
 ¶
 
- 新華嚴經論卷第十四¶
+ 
+** 2新華嚴經論卷第十四¶
 ¶
 長者李通玄撰¶
 
@@ -21,7 +22,8 @@
 品。是正說分。賢首品末有三行半經。是流通¶
 分。¶
 
-7如來名號品
+* 7如來名號品
+** 1
 :PROPERTIES:
 :head: 如來名號品第七
 :END:

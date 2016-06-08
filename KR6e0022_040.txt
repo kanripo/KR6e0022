@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.638567
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 40
 ¶
 
- 新華嚴經論卷第四十¶
+ 
+** 9新華嚴經論卷第四十¶
 ¶
 長者李通玄撰¶
 
