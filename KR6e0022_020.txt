@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:30.982135
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0022_T_020-0853a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 20
 ¶
 ¶
-
- 新華嚴經論卷第二十¶
+新華嚴經論卷第二十¶
 ¶
 長者李通玄撰¶
 
@@ -117,9 +116,9 @@
 　方便常住生死海
 　饒益眾生為妓樂¶
 　總持演暢妙法音
-　聞者解脫為歌樂
+　聞者解脫為歌樂」
 #+END_VERSE
-」¶
+¶
 
 已上如文可知。此段有不可說他方菩薩眾。¶
 此一段諸天住兜率宮。菩薩眾總有一百五¶
@@ -159,11 +158,7 @@
 祇之劫也。如此教與三乘中五位行相。一倍¶
 顛倒行相不同。後當更明。¶
 
-24兜率天宮中偈讚品
-:PROPERTIES:
-:head: 兜率天宮中偈讚品第二十四
-:END:
-¶
+* 兜率天宮中偈讚品第二十四¶
 
 將釋此品。三門如前。¶
 
@@ -377,11 +372,7 @@
 文釋。文煩義沈表法難知。方可約釋。餘如文¶
 自具書。¶
 
-25十迴向品
-:PROPERTIES:
-:head: 十迴向品第二十五
-:END:
-¶
+* 十迴向品第二十五¶
 
 將釋此品三門如前。¶
 

@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.485282
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0022_T_036-0968a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 36
 ¶
 ¶
-
- 新華嚴經論卷第三十六¶
+新華嚴經論卷第三十六¶
 ¶
 長者李通玄撰¶
 
@@ -226,7 +225,7 @@
 為伴。明定體白淨無垢報成光明。真金為舍¶
 宅之大體白銀為牆者。以禪體成。戒為防護¶
 義。頗梨為殿者。以禪體顯智成忍。此寶似水¶
-精明淨。然有眾色不同。紺琉璃寶而為樓閣¶
+精明淨。然有眾色不同。紺琉瑠寶而為樓閣¶
 者。以禪體而作精進。觀照更增明淨清潔也。¶
 車𤦲妙寶而為其柱者。以禪為行。住持諸法¶
 故。已下自餘莊嚴。以次依十波羅蜜次第排¶
@@ -278,9 +277,9 @@
 　如是次第而修學¶
 　畢竟不居初中末
 　以此眾法利群生¶
-　依正二報於中得
+　依正二報於中得」
 #+END_VERSE
-」¶
+¶
 
 此略釋大況廣意如文。意明一行中十行齊¶
 行無始無終。例皆如是。¶

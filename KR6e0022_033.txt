@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.395227
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0022_T_033-0947a> ¶¶¶
 #+PROPERTY: JUAN 33
 ¶
 ¶
 ¶
-
- 新華嚴經論卷第三十三¶
+新華嚴經論卷第三十三¶
 ¶
 長者李通玄撰¶
 
@@ -434,7 +433,7 @@
 年居長者能有清淨信心。但云清信士女。已¶
 上列眾。但隨名下義。是所修之德。或以形貌¶
 立名。如大智居士女。以父之號故約德立名。¶
-餘准知之。經云。威光赫奕者。明文殊師利身
+餘准知之。經云。威光赫弈者。明文殊師利身
 <pb:KR6e0022_T_033-0951b>¶
 色盛明映於大眾。如文殊師利觀察善財名¶
 字因緣以初入胎時於其宅內自然出七寶樓¶

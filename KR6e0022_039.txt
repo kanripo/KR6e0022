@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.603641
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0022_T_039-0992c> ¶¶
 #+PROPERTY: JUAN 39
 ¶
 ¶
-
- 新華嚴經論卷第三十九¶
+新華嚴經論卷第三十九¶
 ¶
 長者李通玄撰¶
 
@@ -257,9 +256,9 @@
 「　普光明智名為佛
 　隨順本願名為父¶
 　慈育含生名夫人
-　法悅利生名童女
+　法悅利生名童女」
 #+END_VERSE
-」¶
+¶
 
 已上所有世界海及剎種。皆以世界海塵量。¶
 總是此四攝化之境。以無限智悲。當如是行。¶

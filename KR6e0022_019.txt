@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:30.947819
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0022_T_019-0845b> ¶¶¶
 #+PROPERTY: JUAN 19
 ¶
 ¶
-
- 新華嚴經論卷第十九¶
+新華嚴經論卷第十九¶
 ¶
 長者李通玄撰¶
 
-21十行品
-:PROPERTIES:
-:head: 十行品第二十一
-:END:
-¶
+* 十行品第二十一¶
 
 將釋此品約作三門分別。一釋品名目。二釋¶
 品來意。三隨文釋義。¶
@@ -215,11 +210,7 @@
 界者。暨者及也。云及于法界也。如下頌分中¶
 有二百二行頌。兩行一頌。如文具明。¶
 
-22十無盡藏品
-:PROPERTIES:
-:head: 十無盡藏品第二十二
-:END:
-¶
+* 十無盡藏品第二十二¶
 
 將釋此品。三門如前。
 
@@ -342,11 +333,7 @@
 興供。是流通分。兜率天宮說十迴向法門。於¶
 此位中有三品經。共成此位。¶
 
-23昇兜率天宮品
-:PROPERTIES:
-:head: 昇兜率天宮品第二十三
-:END:
-¶
+* 昇兜率天宮品第二十三¶
 
 第一從初昇兜率天宮品。三義如前。¶
 

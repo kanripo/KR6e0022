@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.046743
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0022_T_022-0868a> ¶¶¶
 #+PROPERTY: JUAN 22
 ¶
 ¶
-
- 新華嚴經論卷第二十二¶
+新華嚴經論卷第二十二¶
 ¶
 長者李通玄撰¶
 
@@ -175,13 +174,8 @@
 有時日歲月劫量延促廣也。皆是約修行之¶
 位。安立佛果之名。¶
 
-26十地品
-1歡喜地
-:PROPERTIES:
-:head: 十地品第二十六¶
-第一歡喜地
-:END:
-¶
+** 十地品第二十六¶
+第一歡喜地¶
 
 約釋此品以四門分別。一釋品名目。二釋品¶
 來意。三敘其昇進次第。四隨文解釋。¶

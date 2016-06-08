@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.014957
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0022_T_021-0860a> 
 #+PROPERTY: JUAN 21
 ¶
-
- 新華嚴經論卷第二十一¶
+新華嚴經論卷第二十一¶
 ¶
 長者李通玄撰¶
 
@@ -334,9 +333,9 @@
 　智無來去如影現
 <pb:KR6e0022_T_021-0863a>¶
 　假使教化諸群生
-　猶如化人度幻眾
+　猶如化人度幻眾」
 #+END_VERSE
-」¶
+¶
 
 大約如世造立宮室要以功成。論其現自施¶
 功。功體各無自性。及至成功事畢。還以無功¶
@@ -369,7 +368,7 @@
 不成。今此一位依舊不依新翻。又依梵云光
 <pb:KR6e0022_T_021-0863b>¶
 世音菩薩。明以教光行光大慈悲之光等眾¶
-生而利物。即一切處文殊。一切處普賢。亦得¶
+生而利物。即一切處文珠。一切處普賢。亦得¶
 名一切處光世音。今言觀世音者。取正念心¶
 成依心應現而立名也。不可以為觀自在所¶
 表法也。觀自在者。約名表法義中。是表第六¶
@@ -630,9 +629,9 @@
 　悟者眾生是佛智
 <pb:KR6e0022_T_021-0865c>¶
 　如是了達體同別
-　堪與眾生作依止
+　堪與眾生作依止」
 #+END_VERSE
-」¶
+¶
 
 約釋第八真如相迴向竟。¶
 

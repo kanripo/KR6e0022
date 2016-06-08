@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.424935
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0022_T_034-0954a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 34
 ¶
 ¶
-
- 新華嚴經論卷第三十四¶
+新華嚴經論卷第三十四¶
 ¶
 長者李通玄撰¶
 
@@ -118,7 +117,7 @@
 種難法皆能發行。九先舉善財所求十種菩¶
 薩之行。十自申己德授與善財。十一我唯得¶
 此憶念一切諸佛境界智慧光明普見法門。¶
-是都結自己當位法門授與善財竟。已下是¶
+是都結自已當位法門授與善財竟。已下是¶
 更推勝進前位。¶
 
 一得聞善知識名歡喜者。經云聞是語已歡¶

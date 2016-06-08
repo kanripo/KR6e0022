@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:30.675499
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0022_T_011-0787a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 新華嚴經論卷第十一¶
+新華嚴經論卷第十一¶
 ¶
 長者李通玄撰¶
 
@@ -337,7 +336,7 @@
 二萬一千由旬。有阿脩羅王名羅睺。此云障¶
 礙。能以手障日月明。領無量眾。三從此更下¶
 二萬一千由旬。有阿脩羅王。名勇健。亦領多¶
-眾。四復過二萬一千由旬有阿脩羅王。名花¶
+眾。四復過二萬一千田旬有阿脩羅王。名花¶
 鬘。亦領諸眾。第五復過是數名毘摩質多羅。¶
 此云響高。是舍脂父。舍脂是天帝釋后。父與¶
 天帝釋鬪戰時。發自海中揚聲大叫云。我是¶

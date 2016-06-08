@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:55:31.222172
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:11
 #+TITLE: 新華嚴經論
 #+PROPERTY: CBETA_ID T36n1739
 #+PROPERTY: ID KR6e0022
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1739
 #+PROPERTY: VOL 36
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0022_T_028-0911a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 28
 ¶
 ¶
-
- 新華嚴經論卷第二十八¶
+新華嚴經論卷第二十八¶
 ¶
 長者李通玄撰¶
 
@@ -214,11 +213,7 @@
 此真俗二智滿故。明如是修二智者所依止¶
 故。¶
 
-10法雲地
-:PROPERTIES:
-:head: 第十法雲地
-:END:
-¶
+** 第十法雲地¶
 
 將釋此地。五門如前。
 
